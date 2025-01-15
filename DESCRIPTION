@@ -1,0 +1,19 @@
+Package: spatstat.grouped.data
+Type: Package
+Title: Data for Package 'spatstat.grouped'
+Version: 0.1.0
+Date: 2025-01-15
+Description: Example data used in package 'spatstat.grouped'.
+LazyData: true
+LazyDataCompression: xz
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Encoding: UTF-8
+License: GPL-2
+Depends: R (>= 4.3),
+Language: en-US
+Authors@R: c(person(given = 'Tingting', family = 'Zhan', role
+       = c('aut', 'cre', 'cph'), email =
+       c('tingtingzhan@gmail.com'), comment = c(ORCID =
+       '0000-0001-9971-4844')))
+Suggests: knitr
